@@ -1,0 +1,25 @@
+#@copyrigth :ibrahim
+CC=arm-none-eabi-
+CFLAGS= -mthumb  -mcpu=cortex-m3 -g -gdwarf-2
+INCS=-I .
+LIBS= 
+SRC=$(wildcard *.c)
+OBJ=$(SRC:.c=.o)
+As=$(wildcard *.s)
+AsOBJ=$(As:.s=.o)
+Project_name=Pressure_Sensor_cortex_m3
+
+all: $(Project_name).bin
+	@echo "--------------build is done---------------------"
+
+ %.o: %.c
+	$(CC)gcc.exe -c $(INCS) $(CFLAGS) $< -o $@  
+ 
+ $(Project_name).elf: $(OBJ) 
+	$(CC)ld.exe -T linker_script.ld $(OBJ) $(AsOBJ) -o $(Project_name).elf -Map=Map_file.map
+$(Project_name).bin:	$(Project_name).elf 
+	 $(CC)objcopy.exe -O binary $< $@
+clean:
+	rm *bin *elf	
+clean_all:
+	rm *bin *elf *o
