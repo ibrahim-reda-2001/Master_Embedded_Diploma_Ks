@@ -1,0 +1,3 @@
+../Inc/Stm32f103c6_Drivers/MCAL/RCC/RCC_programe.c:8:6:RCC_voidInitSysClock	4	static
+../Inc/Stm32f103c6_Drivers/MCAL/RCC/RCC_programe.c:46:6:RCC_voidEnablePeripheralClock	16	static
+../Inc/Stm32f103c6_Drivers/MCAL/RCC/RCC_programe.c:73:6:RCC_voidDisablePeripheralClock	16	static

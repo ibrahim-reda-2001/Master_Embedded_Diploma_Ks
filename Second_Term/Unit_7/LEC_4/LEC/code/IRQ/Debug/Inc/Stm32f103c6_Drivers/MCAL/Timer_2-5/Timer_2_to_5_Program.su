@@ -1,0 +1,6 @@
+../Inc/Stm32f103c6_Drivers/MCAL/Timer_2-5/Timer_2_to_5_Program.c:3:6:TIM2_voidInit	4	static
+../Inc/Stm32f103c6_Drivers/MCAL/Timer_2-5/Timer_2_to_5_Program.c:23:6:TIM2_voidStart	4	static
+../Inc/Stm32f103c6_Drivers/MCAL/Timer_2-5/Timer_2_to_5_Program.c:27:6:TIM2_voidStop	4	static
+../Inc/Stm32f103c6_Drivers/MCAL/Timer_2-5/Timer_2_to_5_Program.c:32:6:TIM2_voidSetTimerValue	16	static
+../Inc/Stm32f103c6_Drivers/MCAL/Timer_2-5/Timer_2_to_5_Program.c:37:5:TIM2_u16GetTimerValue	4	static
+../Inc/Stm32f103c6_Drivers/MCAL/Timer_2-5/Timer_2_to_5_Program.c:41:6:TIM2_voidGeneratePwm	24	static
