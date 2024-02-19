@@ -1,0 +1,6 @@
+../Inc/Stm32f103c6_Drivers/MCAL/USART/USART_program.c:47:6:MCAL_USART_Init	32	static
+../Inc/Stm32f103c6_Drivers/MCAL/USART/USART_program.c:80:6:MCAL_USART_DeInit	16	static
+../Inc/Stm32f103c6_Drivers/MCAL/USART/USART_program.c:90:6:MCAL_USART_SendDate	24	static
+../Inc/Stm32f103c6_Drivers/MCAL/USART/USART_program.c:102:6:MCAL_USART_ReceiveDate	24	static
+../Inc/Stm32f103c6_Drivers/MCAL/USART/USART_program.c:135:6:USART1_IRQHandler	8	static
+../Inc/Stm32f103c6_Drivers/MCAL/USART/USART_program.c:138:6:USART2_IRQHandler	4	static
