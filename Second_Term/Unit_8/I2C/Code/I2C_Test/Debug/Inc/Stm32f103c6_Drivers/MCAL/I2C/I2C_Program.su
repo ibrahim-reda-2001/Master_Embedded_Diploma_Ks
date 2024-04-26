@@ -1,0 +1,14 @@
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:26:6:MCAL_I2C_Init	40	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:117:6:MCAL_I2C_DeInit	16	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:130:6:MCAL_I2C_Set_Pins	16	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:147:6:MCAL_I2C_GenerateStart	16	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:166:6:MCAL_I2C_SendAdd	16	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:180:6:MCAL_I2C_Generate_Stop	16	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:189:6:MCAL_I2C_Generate_ACK	16	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:198:12:MCAL_I2C_GetFlagStatus	32	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:213:6:MCAL_I2C_Master_TX	32	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:244:6:MCAL_I2C_Master_RX	32	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:279:6:MCAL_I2C_Slave_Send	16	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:282:4:MCAL_I2C_Slave_Recive	16	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:285:6:I2C1_EV_IRQHandler	4	static
+../Inc/Stm32f103c6_Drivers/MCAL/I2C/I2C_Program.c:288:6:I2C1_ER_IRQHandler	4	static

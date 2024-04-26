@@ -1,0 +1,13 @@
+/*
+ * I2C_Config.h
+ *
+ *  Created on: Apr 17, 2024
+ *      Author: MAGIC
+ */
+
+#ifndef STM32F103C6_DRIVERS_MCAL_I2C_I2C_CONFIG_H_
+#define STM32F103C6_DRIVERS_MCAL_I2C_I2C_CONFIG_H_
+
+
+
+#endif /* STM32F103C6_DRIVERS_MCAL_I2C_I2C_CONFIG_H_ */

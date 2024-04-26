@@ -1,0 +1,3 @@
+../Inc/Stm32f103c6_Drivers/HAL/EEPROM/EEPROM_Program.c:4:6:HAL_EEPROM_Init	40	static
+../Inc/Stm32f103c6_Drivers/HAL/EEPROM/EEPROM_Program.c:17:4:HAL_EEPROM_Write_NByte	296	static
+../Inc/Stm32f103c6_Drivers/HAL/EEPROM/EEPROM_Program.c:30:4:HAL_EEPROM_Read_NByte	40	static
